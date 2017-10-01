@@ -1,6 +1,8 @@
 # Django + Vue.js
 
-Psát všechen JavaScript pro oživení webové aplikace může být únavné a zdlouhavé. K usnadnění této práce existují tzv. frontendové frameworky. Na tomto Pyworkingu si vysvětlíme, k čemu se takový frontendový framework hodí a jak ho použít. Jeden z nabídky si vyzkoušíme - [Vue.js](https://vuejs.org).  
+Ač je Python tím, co dělá naše životy šťastnými, moderní web se neobejde bez JavaScriptu. To máte hned. Někde usnadnit vyplnění formuláře, jinde přidat efekt při otevření fotky, a už jen nevěřícně kroutíte hlavou, kde se vzalo tolik souborů plných složených závorek. A takové soubory se pak (především pod rukama Python programátorů) snadno zamotají do sebe, stejně beznadějně jako šňůry od sluchátek.
+
+Zabránit se tomu dá nejlépe použitím tzv. frontendových frameworků, které podobně jako ty backendové (Django, Flask) dávají věcem řád a usnadňují řešení běžných situací. V tomto PyWorkingu si ukážeme jak propojit Django s [Vue.js](https://vuejs.org), což je mladá stoupající hvězda a miláček aktuální JavaScriptové scény.
 
 ## Teoretická část
 
